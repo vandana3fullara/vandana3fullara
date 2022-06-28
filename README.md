@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Heya! I'm Vandana Fullara</h1>
+<h1> 👋,Heya! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Vandana Fullara</h1>
 ![](https://github.com/vandana3fullara/vandana3fullara/blob/main/DAUGHTER.png)
 
   
