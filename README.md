@@ -1,4 +1,4 @@
-# Heya 👋, Vandana Fullara This Side
+# Heya 👋, I'm Vandana Fullara
 ![](https://github.com/vandana3fullara/vandana3fullara/blob/main/DAUGHTER.png)
 
 
