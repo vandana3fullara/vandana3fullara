@@ -9,4 +9,4 @@
 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vandana3fullara&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandana3fullara&layout=compact)](https://github.com/vandana3fullara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandana3fullara&layout=compact&theme=tokyonight)](https://github.com/vandana3fullara/github-readme-stats)
