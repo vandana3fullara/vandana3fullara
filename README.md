@@ -1,5 +1,5 @@
 # Heya 👋, I'm Vandana Fullara
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![]https://github.com/vandana3fullara/vandana3fullara/blob/main/DAUGHTER.png
 
 
 - 🔭 I’m Currently Working On My DREAMS. 
